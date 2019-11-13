@@ -13,24 +13,26 @@ You are currently in , "<span id="k">Malaysia , 4.2105° N, 101.9758° E</span>"
  <p>Nothing much.
  Currently a Fullstack Developer in a company called Aldercy.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
-<p> What am i doing? </p>
-
-<p> Here are the list of my projects 
+<p> What am i doing? 
+ Here are the list of my projects 
 
 <ul>
-  <li><a href="https://auction.g-mart.my" target=_blank>E-Auction (Online Digital Bidding)</a></li>
+  <li><a href="https://auction.g-mart.my" target=_blank>E-Auction (Online Digital Bidding) Major Upgrade Coming Soon</a></li>
   <li><a href="https://g-mart.my" target=_blank>G-Mart(G-Mart One Stop Centre)</a></li>
   <li><a href="https://myapeg.com" target=_blank>Apeg Warranty (Warranty For Recond Car)</a></li>
   <li><a href="https://qpay.my" target=_blank>QPay.my (Payment Getaway System [FPX])</a></li>
   <li><a href="https://jomroadtax.my" target=_blank>JomRoadTax.my (Renew Your Vehicle Roadtax & Insurance Online)</a></li>
-</ul>  
+  <li><a href="https://aldercy.com.my" target=_blank>GPS Plug & Play Tracker</a></li>
+</ul>
+and many more.  
 
 </p>
 
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+<p> Participate as contestor in AngelHack 2019 @ Singapore 
+The task is to create one inovation system with 24hours</p>
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
+That's it. <!-- slightdelayhere-->, if you have any websites or project to propose feel free to send me an email at<!-- longlonglongcomment --><a href="danial@aldercy.com.my">Email</a>.
 
 <p>Cheers!</p>
+
+<span id="a">root@dan</span>:<span id="b">~</span><span id="c">$</span> exit <!-- kjsdfhkjdhsfkjdshfkj -->
