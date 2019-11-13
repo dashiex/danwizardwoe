@@ -26,7 +26,7 @@ You are currently in , "<span id="k">Malaysia , 4.2105° N, 101.9758° E</span>"
 and many more.  
 
 <p> Participate as contestor in "<span id="k">AngelHack @ Singapore 2019</span>"
-Create one inovation system within 24hours, we didn't win but it was a great experience</p>
+Create one inovation system within 24hours, we didn't win but it was a great experience.</p>
 
 That's it <!-- slightdelayhere-->,if you have any websites or project to propose feel free to send me an email at <!-- longlonglongcomment --><a href="">danial@aldercy.com.my</a>.
 <br>
