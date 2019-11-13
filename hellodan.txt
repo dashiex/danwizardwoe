@@ -1,5 +1,5 @@
 <span id="a">root@dan</span>:<span id="b">~</span><span id="c">$</span> cd danialluqman/<!-- kjsdfhkjdhsfkjdshfkj -->welcome
-<span id="a">root@dan</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->welcome.txt<br/><br/>
+<span id="a">root@dan</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->welcome.txt
 
 You are currently in , "<span id="k">Malaysia , 4.2105° N, 101.9758° E</span>". Please use VPN to avoid from anonymous attacker. <!-- sjkfhskjf -->
 
