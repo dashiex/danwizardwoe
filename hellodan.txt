@@ -1,6 +1,7 @@
-<span id="a">root@dan</span>:<span id="b">~</span><span id="c">$</span> cd danialluqman/<!-- kjsdfhkjdhsfkjdshfkj -->Hello_world
-<span id="a">root@dan</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->codenerve.txt<br/><br/>
-My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
+<span id="a">root@dan</span>:<span id="b">~</span><span id="c">$</span> cd danialluqman/<!-- kjsdfhkjdhsfkjdshfkj -->welcome
+<span id="a">root@dan</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->hellodan.txt<br/><br/>
+
+You are currently in , "<span id="k">Malaysia , 4.2105° N, 101.9758° E</span>". Please use VPN to avoid from anonymous attacker. <!-- sjkfhskjf -->
 
 Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
 <p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
