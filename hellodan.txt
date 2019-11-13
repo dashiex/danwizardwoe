@@ -10,10 +10,19 @@ You are currently in , "<span id="k">Malaysia , 4.2105° N, 101.9758° E</span>"
 
 
  Hola! I am Danial known as DL.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
- <p>Nothing much.<br>
- Currently a Fullstack Developer in company called Aldercy.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+ <p>Nothing much.
+ Currently a Fullstack Developer in a company called Aldercy.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
+<p> What am i doing? </p>
 
+<p> Here are the list of my projects 
+
+<ul>
+  <li><a href="https://auction.g-mart.my">E-Auction</a></li>
+  <li><a href="https://g-mart.my">G-Mart</a></li>
+</ul>  
+
+</p>
 
 <p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
