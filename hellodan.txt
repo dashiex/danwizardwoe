@@ -18,8 +18,11 @@ You are currently in , "<span id="k">Malaysia , 4.2105° N, 101.9758° E</span>"
 <p> Here are the list of my projects 
 
 <ul>
-  <li><a href="https://auction.g-mart.my">E-Auction</a></li>
-  <li><a href="https://g-mart.my">G-Mart</a></li>
+  <li><a href="https://auction.g-mart.my" target=_blank>E-Auction (Online Digital Bidding)</a></li>
+  <li><a href="https://g-mart.my" target=_blank>G-Mart(G-Mart One Stop Centre)</a></li>
+  <li><a href="https://myapeg.com" target=_blank>Apeg Warranty (Warranty For Recond Car)</a></li>
+  <li><a href="https://qpay.my" target=_blank>QPay.my (Payment Getaway System [FPX])</a></li>
+  <li><a href="https://jomroadtax.my" target=_blank>JomRoadTax.my (Renew Your Vehicle Roadtax & Insurance Online)</a></li>
 </ul>  
 
 </p>
