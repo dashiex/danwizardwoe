@@ -10,9 +10,8 @@ You are currently in , "<span id="k">Malaysia , 4.2105° N, 101.9758° E</span>"
 
  Hola! I am Danial known as DL.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
  Nothing much.
- Currently a Fullstack Developer in a company called Aldercy.
-
- What am i doing? 
+ Fullstack Developer in Aldercy.
+ 
  Here are the list of my projects 
 
 <ul>
@@ -20,15 +19,15 @@ You are currently in , "<span id="k">Malaysia , 4.2105° N, 101.9758° E</span>"
   <li><a href="https://g-mart.my" target=_blank>G-Mart(G-Mart One Stop Centre)</a></li>
   <li><a href="https://myapeg.com" target=_blank>Apeg Warranty (Warranty For Recond Car)</a></li>
   <li><a href="https://qpay.my" target=_blank>QPay.my (Payment Getaway System [FPX])</a></li>
-  <li><a href="https://jomroadtax.my" target=_blank>JomRoadTax.my (Renew Your Vehicle Roadtax & Insurance Online)</a></li>
-  <li><a href="https://aldercy.com.my" target=_blank>GPS Plug & Play Tracker</a></li>
+  <li><a href="https://web.jomroadtax.my" target=_blank>JomRoadTax.my (Renew Your Vehicle Roadtax & Insurance Online)</a></li>
+ 
 </ul>
 and many more.  
 
-<p> Participated as contestant in "<span id="k">AngelHack @ Singapore 2019</span>"
-Create one inovation system within 24hours, we didn't win but it was a great experience.</p>
+<p> Participated "<span id="k">AngelHack @ Singapore 2019</span>"
+Build one inovation system within 24hours (Internet Of Things)</p>
 
-That's it <!-- slightdelayhere-->,if you have any websites or project to propose feel free to send me an email at <!-- longlonglongcomment --><a href="">danial@aldercy.com.my</a>.
+That's it <!-- slightdelayhere-->,if you have any websites or system to propose feel free to send me an email at <!-- longlonglongcomment --><a href="">danial@aldercy.com.my</a>.
 <br>
 Cheers!.
 
