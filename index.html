@@ -1,19 +1,43 @@
-
+<!DOCTYPE html>
 <html> 
   <head> 
-    <title>DL</title> 
+    <title>DL - Terminal</title> 
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script> 
     <link rel="stylesheet" type="text/css" href="index.css">
+    <style>
+      body {
+        background-color: #000;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+      }
+      #console {
+        position: relative;
+        min-height: 100vh;
+        padding: 20px;
+        box-sizing: border-box;
+      }
+      #console a {
+        color: #0f0;
+        text-decoration: none;
+        border-bottom: 1px solid #0f0;
+      }
+      #console a:hover {
+        text-shadow: 0 0 8px #0f0;
+      }
+      #console span#a { color: #0f0; }
+      #console span#b { color: #0f0; }
+      #console span#c { color: #0f0; }
+      #console span#k { color: #0f0; }
+    </style>
   </head> 
   <body>
-      <audio id="audio2" autoplay loop>
-          <source src="lucid.mp3" type="audio/mpeg">
-          </audio>
+    <audio id="audio2" autoplay loop>
+      <source src="lucid.mp3" type="audio/mpeg">
+    </audio>
 
-    <script type="text/javascript" src="index.js"> 
-    </script> 
+    <script type="text/javascript" src="index.js"></script> 
     <div id="console"></div> 
-    <script type="text/javascript", src="index2.js">
-    </script>
+    <script type="text/javascript" src="index2.js"></script>
   </body> 
 </html> 

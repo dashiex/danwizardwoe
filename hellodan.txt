@@ -1,34 +1,41 @@
 <span id="a">root@dan</span>:<span id="b">~</span><span id="c">$</span> cd danialluqman/<!-- kjsdfhkjdhsfkjdshfkj -->welcome
 <span id="a">root@dan</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->welcome.txt
 
-You are currently in , "<span id="k">Malaysia , 4.2105° N, 101.9758° E</span>". Please use VPN to avoid from anonymous attacker. <!-- sjkfhskjf -->
+[SYSTEM] Initializing secure connection...
+[SECURITY] WARNING: You are currently in "<span id="k">Malaysia , 4.2105° N, 101.9758° E</span>"
+[SECURITY] ALERT: Please use VPN to avoid from anonymous attacker
+[SYSTEM] Connection established
 
 <span id="a">root@dan</span>:<span id="b">~</span><span id="c">$</span> cd/ <!-- kjsdfhkjdhsfkjdshfkj -->
 <span id="a">root@dan</span>:<span id="b">~</span><span id="c">$</span> cd danialluqman/<!-- kjsdfhkjdhsfkjdshfkj -->project
 <span id="a">root@dan</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->hellodan.txt<br/>
 
-
- Hola! I am Danial known as DL.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
- Nothing much.
- Fullstack Developer in Aldercy.
+[USER] Hola! I am Danial known as DL.
+[STATUS] System Analysis:
+- Fullstack Developer @ Aldercy
+- Frontend Developer @ Orangesoft
  
- Here are the list of my projects 
+[PROJECTS] Accessing project database...
 
 <ul>
-  <li><a href="https://auction.g-mart.my" target=_blank>E-Auction (Online Digital Bidding) Major Upgrade Coming Soon</a></li>
-  <li><a href="https://g-mart.my" target=_blank>G-Mart(G-Mart One Stop Centre)</a></li>
-  <li><a href="https://myapeg.com" target=_blank>Apeg Warranty (Warranty For Recond Car)</a></li>
-  <li><a href="https://qpay.my" target=_blank>QPay.my (Payment Getaway System [FPX])</a></li>
-  <li><a href="https://web.jomroadtax.my" target=_blank>JomRoadTax.my (Renew Your Vehicle Roadtax & Insurance Online)</a></li>
- 
+  <li><a href="https://auction.g-mart.my" target=_blank>[PROJECT] E-Auction (Online Digital Bidding) - Major Upgrade Coming Soon</a></li>
+  <li><a href="https://g-mart.my" target=_blank>[PROJECT] G-Mart(G-Mart One Stop Centre)</a></li>
+  <li><a href="https://myapeg.com" target=_blank>[PROJECT] Apeg Warranty (Warranty For Recond Car)</a></li>
+  <li><a href="https://qpay.my" target=_blank>[PROJECT] QPay.my (Payment Getaway System [FPX])</a></li>
+  <li><a href="https://malakoff.com.my" target=_blank>[PROJECT] Malakoff Corporation Sdn. Bhd.</a></li>
+  <li><a href="https://malakoff.com.my" target=_blank>[PROJECT] Malakoff Corporation Sdn. Bhd.</a></li>
 </ul>
-and many more.  
 
-<p> Participated "<span id="k">AngelHack @ Singapore 2019</span>"
-Build one inovation system within 24hours (Internet Of Things)</p>
+[INFO] Additional projects available in database...
 
-That's it <!-- slightdelayhere-->,if you have any websites or system to propose feel free to send me an email at <!-- longlonglongcomment --><a href="">danial@aldercy.com.my</a>.
+<p> [ACHIEVEMENT] "<span id="k">AngelHack @ Singapore 2019</span>"
+[STATUS] Build one innovation system within 24hours (Internet Of Things)</p>
+
+<p> [CERTIFICATION] "<span id="k">AWS re/Start Program 2025</span>"</p>
+
+[SYSTEM] That's it <!-- slightdelayhere-->,if you have any websites or system to propose feel free to send me an email at <!-- longlonglongcomment --><a href="">work.danialluqman@gmail.com</a>.
 <br>
-Cheers!.
+[SYSTEM] Connection terminated
+Cheers!
 
 <span id="a">root@dan</span>:<span id="b">~</span><span id="c">$</span> exit <!-- kjsdfhkjdhsfkjdshfkj -->
